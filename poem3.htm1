@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Это было</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css" />
+</head>
+<body>
+  <nav class="container-fluid">
+    <ul><li><strong>Поэзия</strong></li></ul>
+    <ul>
+      <li><a href="index.html">Главная</a></li>
+      <li><a href="poem1.html">Назад к первому</a></li>
+    </ul>
+  </nav>
+
+  <main class="container">
+    <hgroup>
+      <h2>Это было</h2>
+      <h3>О мечтах, звёздах и себе</h3>
+    </hgroup>
+
+    <p>Это было далёкой мечтою во сне,<br>
+    Где звёзды сияли в дали.<br>
+    И шептали о смысле на тайной волне...<br>
+    Вселенная — сила мечты.</p>
+
+    <p>Рисует маршруты сквозь сны и сомненья...<br>
+    Полёт — как сиянье планеты во мгле,<br>
+    Несёт меня в звёздные сны без стесненья...<br>
+    Сквозь время несутся сомненья,</p>
+
+    <p>Как тени в забытой далёкой игре...<br>
+    Мечта — моё лучшее время,<br>
+    Где я — не герой, но с огнём в голове...<br>
+    Мой путь был и мягок и жёсткий,</p>
+
+    <p>Но я шёл вперёд, не сломавшись нигде...<br>
+    Как сквозь космос мгновений<br>
+    Я искал среди звёзд своё тихое 'где'...<br>
+    Теперь было нужно возвращение,<br>
+    Чтоб вспомнить, зачем я летел сквозь себя.</p>
+  </main>
+
+  <footer class="container">
+    <small><a href="index.html">Вернуться на главную</a></small>
+  </footer>
+</body>
+</html>
